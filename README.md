@@ -8,6 +8,7 @@ Hi there, I'm Po7mn1👋
 
 Here I am!: 
 <div>
+<div style="float:left">
 | Skill       |Dream|BASIC  |
 | ----------- | ----------------------: | ----------- |
 | Programming | World Peace |**N:** Po7mn1 |
@@ -16,7 +17,8 @@ Here I am!:
 | Pentest | ||
 |- Web\Pwn\Misc | ||
 | Piano       |  |**School:** High school  |
-
+</div>
+<div style="float:right">
 | Skill                        |       Dream | BASIC                   |
 | ---------------------------- | ----------: | ----------------------- |
 | Programming                  | World Peace | **N:** Po7mn1           |
@@ -26,7 +28,7 @@ Here I am!:
 | - Web\Pwn\Misc               |             |                         |
 | Piano                        |             | **School:** High school |
 </div>
-
+</div>
 #### Contact me
 
 - Twitter: [@icecliffs](https://twitter.com/icecliffs)
