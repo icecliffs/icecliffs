@@ -8,11 +8,14 @@ Hi there, I'm Po7mn1👋
 
 Here I am!: 
 
-| Skill       |                   BASIC | Dream       |
+| Skill       |Dream|BASIC  |
 | ----------- | ----------------------: | ----------- |
-| Programming |           **N:** Po7mn1 | World Peace |
-| Painting    |             **Age:** 18 |             |
-| Piano       | **School:** High school |             |
+| Programming | World Peace |**N:** Po7mn1 |
+| - Python\PHP\C(A little bit) |  | |
+| Painting    |           |**Age:** 18|
+| Pentest | ||
+| - Web\Pwn\Misc | ||
+| Piano       |  |**School:** High school  |
 
 
 #### Contact me
