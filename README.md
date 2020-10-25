@@ -1,8 +1,8 @@
-Hi there, I'm Po7mn1
+Hi there, I'm Po7mn1👋
 
 ##### Contact me
 
-- Twitter: [@icecliffs](https://twitter.com/icecliffs)
+- <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />Twitter: [@icecliffs](https://twitter.com/icecliffs)
 - Telegram: [@icecliffs](https://t.me/icecliffs)
 - Bilibili: [@icecliffs](https://space.bilibili.com/28645589/)
 
