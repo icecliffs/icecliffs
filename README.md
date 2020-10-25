@@ -4,7 +4,7 @@ Hi there, I'm Po7mn1👋
 
 #### 中文自述：
 
-一个会弹钢琴会写程序会画画的高三安全狗，常年摸鱼🐟，家里有闲着的NAS服务器和边界路由，喜欢涩图绘画的过程，一般音游人，一般车万狗~~（试图不开挂徒手过妖妖梦）~~<img src="https://github.com/icecliffs/icecliffs/blob/master/assert/2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067.png?raw=true" alt="2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067" align="right"/>
+一个会弹钢琴会写程序会画画的高三安全狗，常年摸鱼🐟，家里有闲着的NAS服务器和边界路由，喜欢涩图绘画的过程，一般音游人，一般车万狗~~（试图不开挂徒手过妖妖梦）~~<img src="G:\Github\icecliffs\assert\2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067.png" alt="2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067" align="right" style="zoom:;" />
 
 Here I am!: 
 | Skill       |Dream|BASIC  |
@@ -23,6 +23,6 @@ Here I am!:
 - 👑 Wechat: @cyberanonymoushacker
 - 📫 [E-Mail](mailto://security@icecliffs.cn)
 
-<img src="https://github-readme-stats.vercel.app/api?username=icecliffs&theme=great-gatsby&show_icons=true" align="right">[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icecliffs&layout=compact&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=icecliffs&theme=great-gatsby&show_icons=true">[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icecliffs&layout=compact&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 希望你能和我找到共同的爱好（
