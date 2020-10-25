@@ -1,8 +1,10 @@
 Hi there, I'm Po7mn1👋
 
+[![](https://img.shields.io/badge/Blog-@Po7mn1's-yellow.svg)](https://blog.icecliffs.cn/)[![](https://img.shields.io/badge/Status-@Server-blue.svg)](https://www.icecliffs.cn/status)
+
 ##### Contact me
 
-- <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />Twitter: [@icecliffs](https://twitter.com/icecliffs)
+- Twitter: [@icecliffs](https://twitter.com/icecliffs)
 - Telegram: [@icecliffs](https://t.me/icecliffs)
 - Bilibili: [@icecliffs](https://space.bilibili.com/28645589/)
 
