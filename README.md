@@ -4,16 +4,7 @@ Hi there, I'm Po7mn1👋
 
 #### About：
 
-一个会弹钢琴会写程序会画画的高三安全狗，常年摸鱼🐟，家里有闲着的NAS服务器和边界路由，喜欢涩图绘画的过程，一般音游人，一般车万狗（~~试图不开挂徒手过妖妖梦~~）<img src="https://github.com/icecliffs/icecliffs/blob/master/assert/2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067.png?raw=true" alt="2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067" align="right"/>
-
-#### Contact me
-
-- 🎆 [@Twitter](https://twitter.com/icecliffs)
-- 🎉 [@Telegram](https://t.me/icecliffs)
-- ✨ [@Bilibili](https://space.bilibili.com/28645589/)
-- 🎵 [@NetEase](https://music.163.com/#/user/home?id=545274513)
-- 👑 Wechat: @cyberanonymoushacker
-- 📫 [E-Mail](mailto://security@icecliffs.cn)
+这里原本有些东西，。。。<img src="https://github.com/icecliffs/icecliffs/blob/master/assert/2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067.png?raw=true" alt="2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067" align="right"/>
 
 #### Github 
 
