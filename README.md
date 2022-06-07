@@ -1,6 +1,6 @@
 🎆Name: IceCliffs/(Po7mn1)<br>
 🔗Site: 
-  🥰Blog: [Po7mn1's Blog](https://rce.iloli.moe)
+  🥰Blog: [Po7mn1's Blog](https://rce.iloli.moe)<br>
   ✨Team: [Gh0xE9](https://team.iloli.moe)
 
 <table style="width:100%" style="border: 1px dashed #FFF">
