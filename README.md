@@ -25,5 +25,5 @@
     </a></td>
   </tr>
 </table>
-<img src="https://bfs.iloli.moe/img/2021/06/025f0a06f6e67caab4cce963faf0838c-1.png" style="max-width: 53%;position: absolute;right: 0px;">
+<img src="https://bfs.iloli.moe/img/2021/06/025f0a06f6e67caab4cce963faf0838c-1.png" width="53%">
 </div>
