@@ -1,5 +1,5 @@
 👋Hi~ I'm Po7mn1.
-<div>
+<div style="text-shadow: 1px 1px 1px rgb(0,0,0)">
 <ul>
 <li>🎆Name: IceCliffs/(Po7mn1)</li>
 <li>🔗Site: </li>
