@@ -1,5 +1,5 @@
 👋Hi~ I'm Po7mn1.
-<div style="text-shadow: 1px 1px 1px rgb(0,0,0)">
+<div>
 <ul>
 <li>🎆Name: IceCliffs/(Po7mn1)</li>
 <li>🔗Site: </li>
@@ -25,5 +25,5 @@
     </a></td>
   </tr>
 </table>
-<img src="https://bfs.iloli.moe/img/2021/06/025f0a06f6e67caab4cce963faf0838c-1.png">
+<img src="https://bfs.iloli.moe/img/2021/06/025f0a06f6e67caab4cce963faf0838c-1.png" style="max-width: 53%;position: absolute;right: 0px;">
 </div>
