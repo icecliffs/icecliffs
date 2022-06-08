@@ -19,7 +19,7 @@
   <img src="https://bfs.iloli.moe/2022/06/f62453-715d17-faf194ca94afec807e6e5b17.jpg" width="50%">
 </ol>
 </ul>
-<br><br><br><br>
+<br><br>
 <table border="10" color="pink">
   <tr>
     <th colspan="2">
