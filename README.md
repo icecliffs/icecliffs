@@ -7,11 +7,11 @@
     <th colspan="1">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecliffs&theme=monokai" />
     </th>
-    <th><a href="https://github.com/icecliffs">
+    <td><a href="https://github.com/icecliffs">
       <img src="https://github-readme-stats.vercel.app/api?username=icecliffs&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
-    </a></th>
-    <th><a href="https://github.com/icecliffs">
+    </a></td>
+    <td><a href="https://github.com/icecliffs">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecliffs&layout=compact&langs_count=6" />
-    </a></th>
+    </a></td>
   </tr>
 </table>
