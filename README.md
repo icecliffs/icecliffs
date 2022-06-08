@@ -5,7 +5,7 @@
 
 <table style="width:100%" style="border: 1px dashed #FFF">
   <tr>
-    <th>
+    <th rows="1">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecliffs&theme=monokai" />
     </th>
     <th><a href="https://github.com/icecliffs">
