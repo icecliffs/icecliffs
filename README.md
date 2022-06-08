@@ -12,6 +12,11 @@
   <li>🛫Telegram: <a href="https://t.me/icecliffs">@IceCliffs</a></li>
   <li>🌵Twitter: <a href="https://twitter.com/icecliffs">@IceCliffs</a></li>
 </ol>
+<li>🔗About: </li>
+<ol>
+  <li>🥰除了吹牛皮和水群外，我什么都不会，我就一破写歌画画的，哪会什么编程...</li>
+  <img src="https://bfs.iloli.moe/2022/06/f62453-715d17-faf194ca94afec807e6e5b17.jpg">
+</ol>
 </ul>
 <br><br><br><br>
 <table border="10" color="pink">
