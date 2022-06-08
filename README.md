@@ -29,7 +29,6 @@
   <br><br>
 </ol>
 </ul>
-<br><br>
 <table>
   <tr>
     <th>
@@ -40,9 +39,9 @@
     <th><a href="https://github.com/icecliffs">
       <img src="https://github-readme-stats.vercel.app/api?username=icecliffs&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
     </a></th>
-    <th><a href="https://github.com/icecliffs">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecliffs&layout=compact&langs_count=6" />
-    </a></th>
+<!--     <th><a href="https://github.com/icecliffs"> -->
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecliffs&layout=compact&langs_count=6" /> -->
+<!--     </a></th> -->
   </tr>
 </table>
 <img src="https://bfs.iloli.moe/img/2021/06/025f0a06f6e67caab4cce963faf0838c-1.png" width="45%">
