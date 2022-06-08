@@ -2,12 +2,12 @@
 <ul>
 <li>🎆Name: IceCliffs/(Po7mn1)</li>
 <li>🔗Site: </li>
-<ol>
-<li>🥰Blog: [Po7mn1's Blog](https://rce.iloli.moe)</li>
-<li>✨Team: [Gh0xE9](https://team.iloli.moe)</li>
-<li>🛫Telegram: [@icecliffs](https://t.me/icecliffs)</li>
-<li>🌵Twitter: [@icecliffs](https://twitter.com/icecliffs)</li>
-</ol>
+<li>
+  <li>🥰Blog: <a href="https://rce.iloli.moe">Po7mn1's Blog</a></li>
+  <li>✨Team: <a href="https://team.iloli.moe">Gh0xE9</a></li>
+  <li>🛫Telegram: <a href="https://t.me/icecliffs">@IceCliffs</a></li>
+  <li>🌵Twitter: <a href="https://twitter.com/icecliffs">@IceCliffs</a></li>
+</li>
 </ul>
 <table style="width:100%" style="border: 1px dashed #FFF">
   <tr>
