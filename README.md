@@ -20,7 +20,7 @@
     <ol>
       <li>HCJVPCP->Language</li>
       <li>PWMFC->BUH</li>
-      <li>MRT<UDOV->Music</li>
+      <li>MRT\<UDOV->Music</li>
       <li>OUZUV->Drawing</li>
       <li>BU->XJRM->BUYVU->👍</li>
       <li><img src="https://bfs.iloli.moe/2022/06/f62453-715d17-faf194ca94afec807e6e5b17.jpg" width="20%"></li>
