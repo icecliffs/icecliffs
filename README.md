@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=15&duration=3000&color=1A8FF7&background=FF000000&center=true&vCenter=true&lines=%40%E4%BA%BA%E3%81%AF%E6%A2%A6%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%81%E5%A1%A9%E9%B1%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8C%E8%BF%9D%E3%81%86%EF%BC%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&duration=3000&color=1A8FF7&background=FF000000&center=true&vCenter=true&lines=%40%E4%BA%BA%E3%81%AF%E6%A2%A6%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%81%E5%A1%A9%E9%B1%BC%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8C%E8%BF%9D%E3%81%86%EF%BC%81)](https://git.io/typing-svg)
 <hr>
 👋Hi~ I'm Po7mn1.
 <div>
