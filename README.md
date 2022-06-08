@@ -10,7 +10,7 @@
   <li>🌵Twitter: <a href="https://twitter.com/icecliffs">@IceCliffs</a></li>
 </ol>
 </ul>
-<table border="0" style="width:100%;border: 1px dashed #FFF;">
+<table border="0">
   <tr>
     <th colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecliffs&theme=monokai" />
