@@ -10,7 +10,7 @@
   <li>🌵Twitter: <a href="https://twitter.com/icecliffs">@IceCliffs</a></li>
 </ol>
 </ul>
-<table style="width:100%" style="border: 1px dashed #FFF">
+<table border="0" style="width:100%;border: 1px dashed #FFF;out">
   <tr>
     <th colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecliffs&theme=monokai" />
@@ -25,5 +25,5 @@
     </a></td>
   </tr>
 </table>
-<img src="https://bfs.iloli.moe/img/2021/06/025f0a06f6e67caab4cce963faf0838c-1.png" width="53%">
+<img src="https://bfs.iloli.moe/img/2021/06/025f0a06f6e67caab4cce963faf0838c-1.png" width="45%">
 </div>
