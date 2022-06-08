@@ -14,7 +14,7 @@
 </ol>
 </ul>
 <br><br><br><br>
-<table border="0">
+<table border="none">
   <tr>
     <th colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecliffs&theme=monokai" />
