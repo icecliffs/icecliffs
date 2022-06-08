@@ -15,6 +15,12 @@
 <li>🔗About: </li>
 <ol>
   <li>🥰除了吹牛皮和水群外，我什么都不会，我就一破写歌画画的，哪会什么编程...</li>
+  <ul>
+    <li>Skill tree:</li>
+    <ol>
+      <li>HCJVPCP->Language</li>
+    </ol>
+  </ul>
   <br><br>
   <img src="https://bfs.iloli.moe/2022/06/f62453-715d17-faf194ca94afec807e6e5b17.jpg" width="50%">
 </ol>
