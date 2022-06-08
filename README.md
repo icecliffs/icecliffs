@@ -5,6 +5,9 @@
 
 <table style="width:100%" style="border: 1px dashed #FFF">
   <tr>
+    <th>
+      ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecliffs&theme=vue)
+    </th>
     <th><a href="https://github.com/icecliffs">
       <img src="https://github-readme-stats.vercel.app/api?username=icecliffs&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
     </a></th>
