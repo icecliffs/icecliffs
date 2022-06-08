@@ -2,6 +2,7 @@
 <hr>
 👋Hi~ I'm Po7mn1.
 <div>
+<img src="http://bfs.iloli.moe/logo.png" style="float:right;">
 <ul>
 <li>🎆Name: IceCliffs/(Po7mn1)</li>
 <li>🔗Site: </li>
