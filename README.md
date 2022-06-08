@@ -1,7 +1,11 @@
+- 👋Hi~ I'm Po7mn1.
 🎆Name: IceCliffs/(Po7mn1)<br>
 🔗Site: <br>
   🥰Blog: [Po7mn1's Blog](https://rce.iloli.moe)<br>
   ✨Team: [Gh0xE9](https://team.iloli.moe)
+  🛫Telegram: [@icecliffs](https://t.me/icecliffs)
+  🌵Twitter: [@icecliffs](https://twitter.com/icecliffs)
+  
 <table style="width:100%" style="border: 1px dashed #FFF">
   <tr>
     <th colspan="2">
