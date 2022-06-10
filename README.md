@@ -15,17 +15,15 @@
   <li><b>🔗About</b></li>
 <ol>
   <li>🥰除了吹牛皮和水群外，我什么都不会，我就一破写歌画画的，哪会什么编程...</li>
-  <ul>
-    <li><b>Skill tree</b></li>
-    <ol>
-      <li>HCJVPCP->Language</li>
-      <li>PWMFC->BUH</li>
-      <li>MRTUDOV->Music</li>
-      <li>OUZUV->Drawing</li>
-      <li>BU->XJRM->BUYVU->👍</li>
-      <li><img src="https://bfs.iloli.moe/2022/06/f62453-715d17-faf194ca94afec807e6e5b17.jpg" width="20%"></li>
-    </ol>
-  </ul>
+<ul>
+  <li><b>🔗Skill tree</b></li>
+    <li>HCJVPCP->Language</li>
+    <li>PWMFC->BUH</li>
+    <li>MRTUDOV->Music</li>
+    <li>OUZUV->Drawing</li>
+    <li>BU->XJRM->BUYVU->👍</li>
+    <li><img src="https://bfs.iloli.moe/2022/06/f62453-715d17-faf194ca94afec807e6e5b17.jpg" width="20%"></li>
+</ul>
 </ol>
 </ul>
 <table>
