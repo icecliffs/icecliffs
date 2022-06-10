@@ -5,18 +5,18 @@
 <div>
 <ul>
 <li>🎆Name: IceCliffs/(Po7mn1)</li>
-<li>🔗Site: </li>
+  <li><b>🔗Site</b></li>
 <ol>
   <li>🥰Blog: <a href="https://rce.iloli.moe">Po7mn1's Blog</a></li>
   <li>✨Team: <a href="https://team.iloli.moe">Gh0xE9</a></li>
   <li>🛫Telegram: <a href="https://t.me/icecliffs">@IceCliffs</a></li>
   <li>🌵Twitter: <a href="https://twitter.com/icecliffs">@IceCliffs</a></li>
 </ol>
-<li>🔗About: </li>
+  <li><b>🔗About</b></li>
 <ol>
   <li>🥰除了吹牛皮和水群外，我什么都不会，我就一破写歌画画的，哪会什么编程...</li>
   <ul>
-    <li>Skill tree:</li>
+    <li><b>Skill tree</b></li>
     <ol>
       <li>HCJVPCP->Language</li>
       <li>PWMFC->BUH</li>
