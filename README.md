@@ -8,7 +8,6 @@
 <b>🔗Site</b>
 <ol>
   <li>🥰Blog: <a href="https://rce.iloli.moe">rYu1nser's Blog</a></li>
-  <li>✨Team: <a href="https://team.iloli.moe">Gh0xE9</a></li>
   <li>🛫Telegram: <a href="https://t.me/icecliffs">@IceCliffs</a></li>
   <li>🌵Twitter: <a href="https://twitter.com/icecliffs">@IceCliffs</a></li>
 </ol>
