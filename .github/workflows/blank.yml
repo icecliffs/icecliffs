@@ -39,7 +39,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: icecliffs
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
