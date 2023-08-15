@@ -9,15 +9,24 @@
   </samp>
 </p>
 🛠 技术栈 | Tech Stack
-- 💻 提瓦特超导测试
-- 🌐 虚空终端渗透测试
-- 🔧 丘丘人与魔神对抗研究
-- 📡 远程无线电传输研究
-📫 游戏 | Games
-- ⚡Tetris! (Perfect Clear)
-- ⚡GTA VC/SA/3/4/5
-- ⚡Osu! (Phigros)
 
+- 💻 提瓦特超导测试
+
+- 🌐 虚空终端渗透测试
+
+- 🔧 丘丘人与魔神对抗研究
+  
+- 📡 远程无线电传输研究
+  
+📫 游戏 | Games
+
+- ⚡Tetris! (Perfect Clear)
+  
+- ⚡GTA VC/SA/3/4/5
+  
+- ⚡Osu! (Phigros)
+  
+- ⚡RDR2
 <p align="center">
   &emsp;
   <a href="https://github.com/icecliffs">
