@@ -36,12 +36,6 @@
 - ⚡RDR2
 - ⚡Genshin Impact / lv: `(11*4514+((1+1)*4*514+11*4*5+14))/1000`
 - ⚡Star Rail / lv: `0`
-<p align="center">
-  &emsp;
-  <a href="https://github.com/icecliffs">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecliffs&theme=monokai" />
-  </a>
-</p>
 
 <picture>
   <source
@@ -57,5 +51,3 @@
     src="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<img alt="github contribution grid snake animation" src="">
