@@ -6,6 +6,7 @@
     <a href="https://space.bilibili.com/28645589">bilibili</a> ∙
     <a href="https://t.me/o_OOv0">channel</a> ∙
     <a href="https://t.me/icecliffs">telegram</a>
+    <a href="https://music.163.com/#/artist?id=51382584">netease</a>
   </samp>
 </p>
 
