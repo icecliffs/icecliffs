@@ -14,6 +14,7 @@
 🗒 About me(｡･∀･)ﾉﾞ
 </p>
 
+- I am a flexible dog in the mountains.
 - Nothing...
 
 <p align="center">
