@@ -18,7 +18,7 @@
 - Nothing...
 
 <p align="center">
-🛠 Tech Stack (Poor coding skills, crap security researcher)
+🛠 为美好的互联网献上抽象祝福
 </p>
 
 - 💻 Teyvat superconductivity test
