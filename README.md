@@ -3,8 +3,7 @@
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='400px'>
 </div>
 
-
-<div>
+<div align="left">
   <h3 align="center"> IceCliffs / BG5VGN</h3>
   
   <p align="center">
