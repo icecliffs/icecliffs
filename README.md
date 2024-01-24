@@ -1,3 +1,8 @@
+<div align="right">
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='400px'>  
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.rss.classic.svg'>
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='400px'>
+</div>
 <div align="left">
   <h3 align="center"> IceCliffs / BG5VGN</h3>
   <p align="center">
@@ -57,9 +62,4 @@
       src="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</div>
-<div align="right">
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='400px'>  
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.rss.classic.svg'>
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='400px'>
 </div>
