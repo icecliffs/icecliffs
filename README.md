@@ -1,55 +1,55 @@
-<div align="right">
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='400px'>  
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='400px'>
-</div>
-
 <div align="left">
   <h3 align="center"> IceCliffs / BG5VGN</h3>
   
   <p align="center">
     <samp>
-      <a href="https://iloli.moe/">blog</a> ∙
-      <a href="https://space.bilibili.com/28645589">bilibili</a> ∙
-      <a href="https://t.me/o_OOv0">channel</a> ∙
-      <a href="https://t.me/icecliffs">telegram</a> ∙
-      <a href="https://music.163.com/#/artist?id=51382584">netease</a>
+      <a href="https://iloli.moe/">Blog</a> ∙
+      <a href="https://space.bilibili.com/28645589">Bilibili</a> ∙
+      <a href="https://t.me/o_OOv0">Telegram Channel</a> ∙
+      <a href="https://t.me/icecliffs">Telegram</a> ∙
+      <a href="https://music.163.com/#/artist?id=51382584">NetEase Music</a>
     </samp>
   </p>
   
   <p align="center">
-  🗒 About me(｡･∀･)ﾉﾞ
+  🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - I am a flexible dog in the mountains.
-  - Nothing...
+  - 🐾 I am a flexible dog in the mountains.
+  - 🌌 Exploring the mysteries of the digital realm.
   
   <p align="center">
-  🛠 为美好的互联网献上抽象祝福
+  🛠 Contributing to a Beautiful Internet
   </p>
   
-  - 💻 Teyvat superconductivity test
+  - 💻 Teyvat Superconductivity Test
   - 🌐 Void Terminal Penetration Test
-  - 🔧 Hilichurl and God confrontation study
-  - 📡 Long-range radio transmission studies
+  - 🔧 Hilichurl and God Confrontation Study
+  - 📡 Long-range Radio Transmission Studies
   - 🗡 Research on Offensive and Defensive Confrontation in the Teyvat Seven Continents
   
   <p align="center">
-  📫 Games (Genshin Impact launcher!)
+  📫 Games (Genshin Impact Launcher!)
   </p>
   
-  - ⚡Tetris! (Perfect Clear)
-  - ⚡GTA VC/SA/3/4/5
-  - ⚡Osu! (Phigros)
-  - ⚡RDR2
-  - ⚡Genshin Impact / lv: `(11*4514+((1+1)*4*514+11*4*5+14))/1000`
-  - ⚡Star Rail / lv: `0`
+  - ⚡ Tetris! (Perfect Clear)
+  - ⚡ GTA VC/SA/3/4/5
+  - ⚡ Osu! (Phigros)
+  - ⚡ RDR2
+  - ⚡ Genshin Impact / LV: `(11*4514+((1+1)*4*514+11*4*5+14))/1000`
+  - ⚡ Star Rail / LV: `0`
   
   <p align="center">
-  📧 Contact me
+  📧 Contact Me
   </p>
   
-  - www.icecliffs.cn
-  - 🔍rceit.iloli.moe
+  - [www.icecliffs.cn](https://www.icecliffs.cn)
+  - 🔍 [rceit.iloli.moe](https://rceit.iloli.moe)
+  
+  <div align="right">
+    <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='400px'>  
+    <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='400px'>
+  </div>
   
   <picture>
     <source
@@ -61,9 +61,8 @@
       srcset="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="github contribution grid snake animation"
+      alt="GitHub contribution grid snake animation"
       src="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
-
