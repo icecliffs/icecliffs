@@ -1,5 +1,7 @@
 <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='400px'>  
 
+![Metrics](/github-metrics.svg)
+
 <h3 align="center"> IceCliffs / BG5VGN</h3>
 
 <p align="center">
