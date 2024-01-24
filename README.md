@@ -1,6 +1,6 @@
 <div align="right">
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.rss.classic.svg' width='420px'>
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='420px'>
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.rss.classic.svg' width='420px'>
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='420px'>  
 </div>
 <div align="left">
