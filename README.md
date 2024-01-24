@@ -1,6 +1,5 @@
 <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='400px'>  
-
-![Metrics](/github-metrics.svg)
+<img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg'>
 
 <h3 align="center"> IceCliffs / BG5VGN</h3>
 
