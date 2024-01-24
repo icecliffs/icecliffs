@@ -1,7 +1,7 @@
 <div align="right">
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='400px'>  
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.rss.classic.svg'>
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='400px'>
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='500px'>  
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.rss.classic.svg' width='500px'>
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='500px'>
 </div>
 <div align="left">
   <h3 align="center"> IceCliffs / BG5VGN</h3>
