@@ -17,6 +17,7 @@
   <p align="center">
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
+  
   - 🐾 I am a flexible dog in the mountains.
   - 🌌 Exploring the mysteries of the digital realm.
   
