@@ -67,8 +67,8 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
-          plugin_rss: yes
-          plugin_rss_source: https://iloli.moe/atom.xml
-          plugin_rss_limit: 4
           config_padding: 0, 8 + 11%
           config_order: rss
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://iloli.moe/atom.xml
