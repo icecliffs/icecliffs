@@ -58,14 +58,17 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
           plugin_languages_aliases: 'RenderScript:Rust'
-      - name: Blog-RSS
-        uses: lowlighter/metrics@master
+      - name: Blog-rss
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.rss.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          output_action: gist
           user: IceCliffs
           template: classic
+          base: ""
           config_timezone: Asia/Shanghai
           plugin_rss: yes
           plugin_rss_source: https://iloli.moe/atom.xml
-          plugin_rss_limit: 3
+          plugin_rss_limit: 4
+          config_padding: 0, 8 + 11%
+          config_order: rss
