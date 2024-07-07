@@ -20,7 +20,7 @@
   
   - 🐾 I am a flexible dog in the mountains.
   - 🌌 Exploring the mysteries of the digital realm.
-  - :trollface: 最业余的业余安全工程师
+  - :trollface: 最业余的业余安全工程师 :shipit: :rage4:
   
   <p align="center">
   🛠 Contributing to a Beautiful Internet
