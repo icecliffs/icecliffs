@@ -18,7 +18,6 @@
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - 🐾 I am a flexible dog in the mountains.
   - 🌌 Exploring the mysteries of the digital realm.
   - :trollface: 为美好的网络空间献上漏洞 :shipit: :rage4:
   
@@ -26,28 +25,22 @@
   🛠 Contributing to a Beautiful Internet
   </p>
   
-  - 💻 Teyvat Superconductivity Test
-  - 🌐 Void Terminal Penetration Test
-  - 🔧 Hilichurl and God Confrontation Study
-  - 📡 Long-range Radio Transmission Studies
-  - 🗡 Research on Offensive and Defensive Confrontation in the Teyvat Seven Continents
+  - 💻 [SECRET]
+  - 🌐 [SECRET]
+  - 🔧 [SECRET]
+  - 📡 [SECRET]
+  - 🗡 [SECRET]
   
   <p align="center">
   📫 Games (Genshin Impact Launcher!)
   </p>
   
-  - ⚡ Tetris! (Perfect Clear)
-  - ⚡ GTA VC/SA/3/4/5
-  - ⚡ Osu! (Phigros)
-  - ⚡ RDR2
-  - ⚡ Genshin Impact / LV: `(11*4514+((1+1)*4*514+11*4*5+14))/1000`
-  - ⚡ Star Rail / LV: `0`
-  
+  - ⚡ [SECRET]
+
   <p align="center">
   📧 Contact Me
   </p>
   
-  - [www.icecliffs.cn](https://www.icecliffs.cn)
   - 🔍 [rceit.iloli.moe](https://rceit.iloli.moe)
   
   <picture>
