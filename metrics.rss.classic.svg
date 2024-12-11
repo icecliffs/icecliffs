@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="186" class="">
     <defs>
         <style/>
     </defs>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My 2024</div>
+                                <div class="title">2024强网杯S8初赛个人Writeup</div>
                                 <div class="date">10 Nov 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The vulnerability model caused by parental delegation in Java security</div>
-                                <div class="date">1 Nov 2024</div>
+                                <div class="title">My 2024</div>
+                                <div class="date">10 Nov 2024</div>
                             </div>
                         </div>
                     </section>
