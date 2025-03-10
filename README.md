@@ -9,7 +9,6 @@
     <samp>
       <a href="https://iloli.moe/">Blog</a> ∙
       <a href="https://space.bilibili.com/28645589">Bilibili</a> ∙
-      <a href="https://t.me/o_OOv0">Telegram Channel</a> ∙
       <a href="https://t.me/icecliffs">Telegram</a> ∙
       <a href="https://music.163.com/#/artist?id=51382584">NetEase Music</a>
     </samp>
@@ -18,24 +17,12 @@
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - 🌌 不是搞安全的，我什么都不会.
+  - 不是搞安全的，我什么都不会.
   - :trollface: 大哥别溯源我，求求你了 :shipit: :rage4:
-  
+
   <p align="center">
-  🛠 欢迎关注朋友的公众号:【Gh0xE9】，支持 CTF 赛事及 Writeup 查询！
+  🛠 欢迎关注朋友的公众号【Gh0xE9】支持 CTF 赛事及 Writeup 查询！
   </p>
-  
-  - 💻 [SECRET]
-  - 🌐 [SECRET]
-  - 🔧 [SECRET]
-  - 📡 [SECRET]
-  - 🗡 [SECRET]
-  
-  <p align="center">
-  📫 Games (Genshin Impact Launcher!)
-  </p>
-  
-  - ⚡ [SECRET]
 
   <p align="center">
   📧 Contact Me
