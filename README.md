@@ -18,8 +18,8 @@
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - 🌌 Exploring the mysteries of the digital realm.
-  - :trollface: 为美好的网络空间献上漏洞 :shipit: :rage4:
+  - 🌌 不是搞安全的，我什么都不会.
+  - :trollface: 大哥别溯源我，求求你了 :shipit: :rage4:
   
   <p align="center">
   🛠 Contributing to a Beautiful Internet
