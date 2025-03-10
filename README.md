@@ -22,7 +22,7 @@
   - :trollface: 大哥别溯源我，求求你了 :shipit: :rage4:
   
   <p align="center">
-  🛠 Contributing to a Beautiful Internet
+  🛠 欢迎关注朋友的公众号:【Gh0xE9】，支持 CTF 赛事及 Writeup 查询！
   </p>
   
   - 💻 [SECRET]
