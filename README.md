@@ -1,7 +1,6 @@
 <div align="right">
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.classic.svg' width='420px'>
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/metrics.rss.classic.svg' width='420px'>
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='420px'>  
 </div>
 <div align="left">
   <h3 align="center"> IceCliffs / BG5VGN</h3>
@@ -30,10 +29,6 @@
 ⠇⢀⠄⠄⠄⠄⠄⠘⣿⣿⡘⣿⣿⣷⢀⣿⣷⣿⣿⡿⠿⢿⣿⣿⡇⣩⣿⡇
 ⣿⣿⠃⠄⠄⠄⠄⠄⠄⢻⣷⠙⠛⠋⣿⣿⣿⣿⣿⣷⣶⣿⣿⣿⡇⣿⣿⡇
   </div>  
-
-  <p align="center">
-  🛠 欢迎关注朋友的公众号【Gh0xE9】支持 CTF 赛事及 Writeup 查询！
-  </p>
 
   <p align="center">
   📧 Contact Me
