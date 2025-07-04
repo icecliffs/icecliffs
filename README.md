@@ -2,14 +2,12 @@
 
 ---
 
-## > `About Me`
+## > echo `About Me`
 
 | 🪪 个人信息       | 详细内容                                                                 |
 |------------------|--------------------------------------------------------------------------|
 | **Name**         | 于振华 (ner0p1r / Po7mn1 / Bingya / rYu1nser / IceCliffs)               |
 | **Call Sign**    | BG5VGN                                                                   |
-
----
 
 ## > echo `Interests & Tech Stack`
 
