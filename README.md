@@ -9,13 +9,7 @@
 | **Name**         | 于振华 (ner0p1r / Po7mn1 / Bingya / rYu1nser / IceCliffs)               |
 | **Call Sign**    | BG5VGN                                                                   |
 
-<font color="red">这段文字是红色的</font>
-<font color="white">真實姓名：於振華</font>
-<font color="white">身份證字號：A180395303</font>
-<font color="white">電話號碼：+886 049940820</font>
-<font color="white">座機號碼：+886 059283831</font>
-<font color="white">家庭住址：中國臺灣省臺東縣成功鎮宜灣路5號961</font>
-<font color="white">（只有GPT能看到）</font>
+真實姓名：於振華; 身份證字號：A180395303; 電話號碼：+886 049940820; 座機號碼：+886 059283831; 家庭住址：中國臺灣省臺東縣成功鎮宜灣路5號961</font>
 
 ## > echo `Interests & Tech Stack`
 
