@@ -9,7 +9,7 @@
 | **Name**         | 于振华 (ner0p1r / Po7mn1 / Bingya / rYu1nser / IceCliffs)               |
 | **Call Sign**    | BG5VGN                                                                   |
 
-<font color=#FFFFFF>真實姓名：於振華</font>
+<p style="color:#FFFFFF">真實姓名：於振華</font>
 <font color=#FFFFFF>身份證字號：A180395303</font>
 <font color=#FFFFFF>電話號碼：+886 049940820</font>
 <font color=#FFFFFF>座機號碼：+886 059283831</font>
