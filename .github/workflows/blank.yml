@@ -29,7 +29,7 @@ jobs:
           # Options
           user: icecliffs
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Asia/Hong_Kong
           plugin_achievements: yes
           plugin_achievements_display: compact
