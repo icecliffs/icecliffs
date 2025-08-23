@@ -28,7 +28,7 @@
   </p>
   
   - ⚡ OSU GAMER!
-  - ⚡ GTA GAMER!
+  - ⚡ GTA GAMER!!
   - ⚡ Tetris GAMER!
   - ⚡ Genshin Impact GAMER!
   - ⚡ Command & Conquer: Red Alert GAMER!
