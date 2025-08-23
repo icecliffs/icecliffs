@@ -1,74 +1,54 @@
-name: generate animation
-
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
 on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    
-  
-
+  push: {branches: ["master", "main"]}
 jobs:
-  generate:
-    permissions: 
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: lowlighter/metrics@latest
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  generate_personal_profile:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Personal
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.classic.svg
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community
+
+          # Options
+          user: icecliffs
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Hong_Kong
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
           plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_details: lines, percentage
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_aliases: 'RenderScript:Rust'
-      - name: Blog-rss
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.rss.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: IceCliffs
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_rss: yes
-          plugin_rss_source: https://iloli.moe/atom.xml
-          plugin_rss_limit: 4
-          config_padding: 0, 8 + 11%
-          config_order: rss
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 10
+          plugin_people_size: 40
+          plugin_people_types: followers, following
+          plugin_projects: yes
+          plugin_projects_limit: 4
