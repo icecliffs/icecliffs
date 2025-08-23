@@ -1,27 +1,42 @@
-# 👋 Hello, I'm **ner0p1r**!
-
----
-
-## > echo `About Me`
-
-| 🪪 个人信息       | 详细内容                                                                 |
-|------------------|--------------------------------------------------------------------------|
-| **Name**         | 于振华 (ner0p1r / Po7mn1 / Bingya / rYu1nser / IceCliffs)               |
-| **Call Sign**    | BG5VGN                                                                   |
-
-## > echo `Interests & Tech Stack`
-
-- 📚 Learning: `Go` / `Java` / `Python` / `React` / `TypeShit💩`
-- 🎨 Also interested in: ACG / Security / Coding / Music / Piano
-
----
-
-## > echo `Contact & Socials`
-
-- 😄 公众号：**Gh0xE9** (孩子什么都不懂，随便发着玩的，欢迎瞎几把投稿，投的越多越好，反正没钱给稿费)
-- ➕ Blog: [https://iloli.moe](https://iloli.moe)
-- 💧 X: [icecliffs](https://x.com/icecliffs)
-- 😅 Email: [rceit.iloli.moe](rceit.iloli.moe)
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=icecliffs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=contribs" alt="icecliffs's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecliffs&layout=compact&theme=onedark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="right">
+  <img align='right' src='/github-metrics.svg' width='420px'>
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
+</div>
+<div align="left">
+  <h3 align="center"> Ner0p1r </h3>
+  <p align="center">
+    <samp>
+      <a href="https://iloli.moe/">Blog</a> ∙
+      <a href="https://space.bilibili.com/28645589">Bilibili</a> ∙
+      <a href="https://steamcommunity.com/id/icecliffs">Steam</a> ∙
+    </samp>
+  </p>
+  <p align="left">
+  🗒 About Me (｡･∀･)ﾉﾞ
+  </p>
+  
+  - Digital elves, moving freely in cyberspace
+  
+  <p align="left">
+  🛠 Biography
+  </p>
+  
+  Hello! This is ner0p1r, You can call me *po7mn1* or *icecliffs*. I'm intersted in everything except computers, I hate computers, especially computer networks, They bring me a sense of crisis.
+  
+  <p align="left">
+  📫 Skills (I think...)
+  </p>
+  
+  - ⚡ OSU GAMER!
+  - ⚡ GTA GAMER!
+  - ⚡ Tetris GAMER!
+  - ⚡ Genshin Impact GAMER!
+  - ⚡ Command & Conquer: Red Alert GAMER!
+  
+  <p align="left">
+  📧 Contact Me
+  </p>
+  - 🛩️ [Telegram @icecliffs]
+  - 🔗 [Secret @contact-me.iloli.moe]
+  
+</div>
