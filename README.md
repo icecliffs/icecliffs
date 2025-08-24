@@ -1,8 +1,14 @@
-<div align="right">
-  <img align='right' src='/github-metrics.svg' width='420px'>
-  <img align='right' src='/anilist.svg' width='420px'>
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
+<div style="display: flex; justify-content: flex-end; gap: 10px;">
+  <!-- GitHub Metrics -->
+  <img src="/github-metrics.svg" width="420px" style="order: 1;">
+
+  <!-- Anilist -->
+  <img src="/anilist.svg" width="420px" style="order: 2;">
+
+  <!-- 头像 -->
+  <img src="https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png" width="80px" style="order: 3;">
 </div>
+
 <div align="left">
   <h3 align="center"> Ner0p1r </h3>
   <p align="center">
