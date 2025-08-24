@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
+  <div style="flex: 1; max-width: 600px;">
     <h3>Ner0p1r</h3>
     <p>
       <a href="https://iloli.moe/">Blog</a> ∙
