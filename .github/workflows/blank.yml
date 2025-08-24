@@ -39,7 +39,6 @@ jobs:
           config_order: anilist
           config_timezone: Asia/Shanghai
           output_action: gist
-          committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites,watching,characters
