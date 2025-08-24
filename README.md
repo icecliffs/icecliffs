@@ -10,6 +10,7 @@
       <a href="https://iloli.moe/">Blog</a> ∙
       <a href="https://space.bilibili.com/28645589">Bilibili</a> ∙
       <a href="https://steamcommunity.com/id/icecliffs">Steam</a> ∙
+      <a href="https://x.com/icecliffs">X</a>
     </samp>
   </p>
   <p align="left">
@@ -32,7 +33,17 @@
   - ⚡ OSU GAMER!
   - ⚡ GTA GAMER!!
   - ⚡ Tetris GAMER!
+  - ⚡ Cyberpunk 2077 GAMER!
+  - ⚡ WATCH DOG I GAMER!
+  - ⚡ WATCH DOG II GAMER!
   - ⚡ Genshin Impact GAMER!
+  - ⚡ No Man's Sky GAMER!
+  - ⚡ Phigrous GAMER!
+  - ⚡ Muse Dash GAMER!
+  - ⚡ Kerbal Space Program GAMER!
+  - ⚡ Counter-Strike 2 GAMER!
+  - ⚡ Microsoft Flight Simulator 2020/2024 GAMER!
+  - ⚡ Red Dead Redemption 2 GAMER!
   - ⚡ Command & Conquer: Red Alert GAMER!
   
   <p align="left">
