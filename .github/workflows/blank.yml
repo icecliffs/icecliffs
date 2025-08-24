@@ -26,7 +26,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_people: yes
-          plugin_people_limit: 10
+          plugin_people_limit: 18
           plugin_people_size: 40
           plugin_people_types: followers, following
 
