@@ -19,8 +19,6 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           config_timezone: Asia/Hong_Kong
-          plugin_achievements: yes
-          plugin_achievements_display: summary
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
