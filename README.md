@@ -1,7 +1,10 @@
 <div align="right">
   <img align='right' src='/github-metrics.svg' width='420px'>
   <img align='right' src='/anilist.svg' width='420px'>
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
+  <div>
+    <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
+    <a href="https://iloli.moe/bangumi">ACG Rating</a>
+  </div>
 </div>
 <div align="left">
   <h3 align="center"> Ner0p1r </h3>
