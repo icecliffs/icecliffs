@@ -17,8 +17,7 @@
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - Digital elves, moving freely in cyberspace
-  - I'm a freedom person, I like to express my free opinions in free places, In this world, I don't want anyone to restrict me, I want to walk my own road.
+  - 我养的猫全死完了，所以我养了狗
   
   <p align="left">
   🛠 Biography
