@@ -4,7 +4,7 @@
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
 </div>
 <div align="left">
-  <h3 align="center"> Ner0p1r </h3>
+  <h3 align="center"> Ner0p1r (IceCliffs) </h3>
   <p align="center">
     <samp>
       <a href="https://iloli.moe/">Blog</a> ∙
