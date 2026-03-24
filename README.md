@@ -17,7 +17,7 @@
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - 我养的猫全死完了，所以我养了狗
+  - Full-Time Bug Bounty Hunter | Freelancer | Unlicensed ride-hailing driver for Didi, Caocao, and Huaxiaozhu in Mainland China
   
   <p align="left">
   🛠 Biography
