@@ -32,17 +32,13 @@ Gift
   </p>
   
 ```python
-import base64;s = "zJiLzLajzpKqzpKAzZmRzZG1zLK
-FzZG3z4WTz4Sjz6+CzbCuxZamz4yozLS2zLajxZamw6iJz
-pG8zpKqz4SwzLKFzpKAz4+XzZmRzZG1yaqofkJPWE8KQ1k
-KREUKWVNZXk9HCl5CS14KQ1kKS0hZRUZfXk9GUwpZT0lfW
-E8ECmNMCl5CT1hPCkNZCkVETwYKQ14KR19ZXgpITwpLCk1
-FRU4KWVNZXk9HBA==";key = 42;print(bytes([b ^ k
-ey for b in base64.b64decode(s)]).decode())
+import base64;s = "zJiLzLajzpKqzpKAzZmRzZG1zLKFzZG3z4
+WTz4Sjz6+CzbCuxZamz4yozLS2zLajxZamw6iJzpG8zpKqz4SwzLK
+FzpKAz4+XzZmRzZG1yaqofkJPWE8KQ1kKREUKWVNZXk9HCl5CS14K
+Q1kKS0hZRUZfXk9GUwpZT0lfWE8ECmNMCl5CT1hPCkNZCkVETwYKQ
+14KR19ZXgpITwpLCk1FRU4KWVNZXk9HBA==";key = 42;print(b
+ytes([b ^ key for b in base64.b64decode(s)]).decode())
 ```
 
-  <p align="left">
-  📧 Contact Me
-  </p>
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
 </div>
