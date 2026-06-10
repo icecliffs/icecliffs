@@ -22,7 +22,7 @@ About Me (｡･∀･)ﾉﾞ
 Biography
   </p>
   
-  Hello! This is ner0p1r, You can call me *po7mn1* or *icecliffs*. I'm intersted in everything except computers, I hate computers, especially computer networks, They bring me a sense of crisis.
+  - I understand that some people may try to trace back to this based on clues left in att&ck project. However, I want to say this to those so-called defense team folks: **THIS IS A TOOL I WROTE**, and someone is using my tool in attack operations. It has nothing to do with me personally. If you keep being this **FUCKING STUPID** about it, then there’s no need to even run offensive-defense exercises anymore. **NOOBS**.
   
   <p align="left">
 Skills (I think...)
