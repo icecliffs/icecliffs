@@ -22,14 +22,24 @@ About Me (｡･∀･)ﾉﾞ
 Biography
   </p>
   
-  - I understand that some people may try to trace back to this based on clues left in att&ck project. However, I want to say this to those so-called defense team folks: **THIS IS A TOOL I WROTE**, and someone is using my tool in attack operations. It has nothing to do with me personally. If you keep being this **FUCKING STUPID** about it, then there’s no need to even run offensive-defense exercises anymore. **NOOBS**.
+  - I understand that some people may try to trace back to this based on clues left in att&ck project
+  - However
+  - I want to say this to those so-called defense team folks: **THIS IS A TOOL I WROTE**, and someone is using my tool in attack operations
+  - It has nothing to do with me personally
+  - If you keep being this **FUCKING STUPID** about it, then there’s no need to even run offensive-defense exercises anymore. **NOOBS**.
   
   <p align="left">
-Skills (I think...)
+Gift
   </p>
   
-```c
-import base64;s = "zJiLzLajzpKqzpKAzZmRzZG1zLKFzZG3z4WTz4Sjz6+CzbCuxZamz4yozLS2zLajxZamw6iJzpG8zpKqz4SwzLKFzpKAz4+XzZmRzZG1yaqofkJPWE8KQ1kKREUKWVNZXk9HCl5CS14KQ1kKS0hZRUZfXk9GUwpZT0lfWE8ECmNMCl5CT1hPCkNZCkVETwYKQ14KR19ZXgpITwpLCk1FRU4KWVNZXk9HBA==";key = 42;print(bytes([b ^ key for b in base64.b64decode(s)]).decode())
+```python
+import base64;s = "zJiLzLajzpKqzpKAzZmRzZG1zLK
+FzZG3z4WTz4Sjz6+CzbCuxZamz4yozLS2zLajxZamw6iJz
+pG8zpKqz4SwzLKFzpKAz4+XzZmRzZG1yaqofkJPWE8KQ1k
+KREUKWVNZXk9HCl5CS14KQ1kKS0hZRUZfXk9GUwpZT0lfW
+E8ECmNMCl5CT1hPCkNZCkVETwYKQ14KR19ZXgpITwpLCk1
+FRU4KWVNZXk9HBA==";key = 42;print(bytes([b ^ k
+ey for b in base64.b64decode(s)]).decode())
 ```
   
   <p align="left">
