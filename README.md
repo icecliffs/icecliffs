@@ -1,7 +1,6 @@
 <div align="right">
   <img align='right' src='/github-metrics.svg' width='420px'>
   <img align='right' src='/anilist.svg' width='420px'>
-  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
 </div>
 <div align="left">
   <h3 align="center"> Ner0p1r (IceCliffs) </h3>
@@ -41,12 +40,9 @@ E8ECmNMCl5CT1hPCkNZCkVETwYKQ14KR19ZXgpITwpLCk1
 FRU4KWVNZXk9HBA==";key = 42;print(bytes([b ^ k
 ey for b in base64.b64decode(s)]).decode())
 ```
-  
+
   <p align="left">
   📧 Contact Me
   </p>
-  
-  - 🛩️ [Telegram @icecliffs]
-  - 🔗 [Secret @contact-me.iloli.moe]
-  - 🕳️ <a href="https://iloli.moe/bangumi">ACG Rating</a>
+  <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='80px'>  
 </div>
