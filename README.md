@@ -15,7 +15,7 @@
 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - Full-Time Bug Bounty Hunter / Freelancer / Offensive Security Researcher / RedTeam / BlueTeam / Web/AI/Binary Security Researcher
+  - Unemployed worker in China's internet industry and a freelancer, currently working as a driver for DiDi and Huaxiaozhu and Uber, providing convenient ride services to the general public.
   
   <p align="left">
 Biography
