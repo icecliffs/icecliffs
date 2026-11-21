@@ -26,6 +26,7 @@ Biography
   - I want to say this to those so-called defense team folks: **THIS IS A TOOL I WROTE**, and someone is using my tool in attack operations
   - It has nothing to do with me personally
   - If you keep being this **FUCKING STUPID** about it, then there’s no need to even run offensive-defense exercises anymore. **NOOBS**.
+  - Github 只用来存放垃圾，好货得加团队自取
   
   <p align="left">
 Gift
